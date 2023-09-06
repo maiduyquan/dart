@@ -29,6 +29,6 @@ void main(){
       case '5':
         exit(0);
       default:
-        print("Invalid choice. Please select a valid option.");
+        print("lua chon ko hop le.");
     }
 }
